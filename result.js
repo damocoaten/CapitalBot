@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".ed-status").text("Of course he is!");$(".sad-ed").attr("src", "/images/happy-ed.jpg");})

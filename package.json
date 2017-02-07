@@ -1,0 +1,14 @@
+{
+  "name": "radiobot",
+  "version": "1.0.0",
+  "description": "Data miner for Sean d Paul",
+  "main": "server.js",
+  "author": "Damien Coaten",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^13.3.0",
+    "cheerio": "^0.22.0",
+    "node-schedule": "^1.2.0",
+    "request": "^2.79.0"
+  }
+}
